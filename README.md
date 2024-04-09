@@ -2,7 +2,7 @@
 
 A quick-start Vue project that shows how to customize the [Vue Kanban]( https://www.syncfusion.com/vue-components/vue-kanban-board?utm_source=github&utm_medium=listing&utm_campaign=vue-kanban-templates-github-samples) component’s edit dialog using templates. It includes a code snippet for adding a new field to the edit dialog without the necessity of adding it to the Kanban component's columns property.
 
-Watch the video: Coming soon...
+Watch the video: https://www.syncfusion.com/tutorial-videos/vue/kanban-board?title=customize-the-edit-dialog-using-templates-in-the-vue-kanban
 
 Refer to the following documentation to learn about the Vue Kanban component: https://ej2.syncfusion.com/vue/documentation/kanban/dialog#dialog-template 
 
